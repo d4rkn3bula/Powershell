@@ -1,6 +1,6 @@
 <#
-	.SYNOPSIS
-		userQuery.ps1 - Retrieves more relevant data.
+    .SYNOPSIS
+	userQuery.ps1 - Retrieves more relevant data.
 
     .DESCRIPTION
         This script will take the supplied Active Directory user and display it's field attributes.
